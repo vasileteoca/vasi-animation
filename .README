@@ -1,0 +1,15 @@
+# VectorAnimation
+
+VectorAnimation is a library for creating and manipulating vector-based animations. It provides a simple and intuitive API for creating complex animations with ease.
+.vasi files stand for  vector animation solution image
+
+## Features
+
+- Create vector-based animations
+- Manipulate vector shapes
+- Support for various animation effects
+- Easy-to-use API
+
+## Installation
+
+To install VectorAnimation, use the following command:
